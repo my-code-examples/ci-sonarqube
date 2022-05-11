@@ -1,3 +1,6 @@
+#Sonarqube
+.scannerwork
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
